@@ -1,5 +1,5 @@
 # Packet-Tracer-Networking-Practice
-I have an associates in Networking and Virtualization, and received a couple years of cisco training during the course of achieving that degree.
+I have an associates degree in Networking and Virtualization, and received a couple years of cisco training during the course of achieving that degree.
 
 Refreshing my networking knowledge and practicing my networking skills by creating scenarios in packet tracer and working through them.
 Figured this might also be a good way to display my networking skills.

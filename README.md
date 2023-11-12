@@ -3,7 +3,7 @@ Refreshing my networking knowledge and practicing my networking skills by creati
 
 Figured this might also be a good way to display my networking skills.
 
-To view the files, you'll need packet tracer. Download it at: https://skillsforall.com/resources/lab-downloads
+To view the files, you'll need packet tracer. Download it at: https://skillsforall.com/resources/lab-downloads   
 You'll need a cisco account, but you don't have to pay or register for any trainings to download it. 
 
 Alternatively, I would be happy to present this to you using my device in the context of a job interview.
